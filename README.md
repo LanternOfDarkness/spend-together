@@ -19,8 +19,8 @@ This repository serves as a central hub for the **Spend Together** project, a fa
 
 This repository does not contain source code directly. Instead, it links to the main projects:
 
-- **Frontend:** [Spend Together Frontend](https://github.com/LanternOfDarkness/spend-together-f)
-- **Backend:** [Spend Together Backend](https://github.com/LanternOfDarkness/spend-together-b)
+- **[React] Frontend: ** [Spend Together Frontend](https://github.com/LanternOfDarkness/spend-together-f)
+- **[Django] Backend: ** [Spend Together Backend](https://github.com/LanternOfDarkness/spend-together-b)
 
 It also contains:
 - **Plans & Roadmaps**
@@ -28,3 +28,11 @@ It also contains:
 - **API Specifications**
 - **Task Lists & Issues**
 - **Additional Resources**
+
+
+## Linked Repositories
+
+Periodically update with changes from the **Spend Together Frontend** and **Spend Together Backend** repositories.
+```
+git submodule update --remote
+```
