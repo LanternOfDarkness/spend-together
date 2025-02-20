@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LanternOfDarkness/spend-together-f
+[submodule "backend"]
+	path = backend
+	url = https://github.com/LanternOfDarkness/spend-together-b
